@@ -1,0 +1,3 @@
+This project involves predicting credit risk using machine learning techniques for peer-to-peer lending services. The task involves building and evaluating several machine learning models using the imbalanced-learn and Scikit-learn libraries. Resampling and ensemble learning techniques are utilized to create these models, and lending club loan data is used to train and evaluate them. 
+
+Various resampling techniques, such as oversampling, undersampling, and combined sampling, are applied to the data using different algorithms. Ensemble learning techniques such as Balanced Random Forest and Easy Ensemble Classifiers are also used.
